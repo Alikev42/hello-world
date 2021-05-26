@@ -6,6 +6,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Welcome to IS657 from Kevin Salger</Text>
+      <Text>This is a change just to make a new commit.</Text>
       <StatusBar style="auto" />
     </View>
   );
